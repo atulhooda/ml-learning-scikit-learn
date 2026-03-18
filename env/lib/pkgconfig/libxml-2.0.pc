@@ -1,0 +1,13 @@
+prefix=/Users/atulhooda/Desktop/data_science/env
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+modules=1
+
+Name: libXML
+Version: 2.13.9
+Description: libXML library version2.
+Requires.private:  icu-i18n
+Libs: -L${libdir} -lxml2 
+Libs.private:  -L/Users/atulhooda/Desktop/data_science/env/lib -lz -L/Users/atulhooda/Desktop/data_science/env/lib -llzma  -L/Users/atulhooda/Desktop/data_science/env/lib -liconv    
+Cflags: -I${includedir}/libxml2 -I/Users/atulhooda/Desktop/data_science/env/include 

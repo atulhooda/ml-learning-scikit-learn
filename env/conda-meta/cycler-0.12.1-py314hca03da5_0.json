@@ -1,0 +1,122 @@
+{
+  "name": "cycler",
+  "version": "0.12.1",
+  "build": "py314hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "subdir": "osx-arm64",
+  "fn": "cycler-0.12.1-py314hca03da5_0.conda",
+  "md5": "40e6dbf9948741307534d8b65cda06a6",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/cycler-0.12.1-py314hca03da5_0.conda",
+  "sha256": "6fa70ba49163751f51eebc1d2c61465d3f3f193a022472d12a3e0ec5c95d6aa2",
+  "depends": [
+    "python >=3.14,<3.15.0a0",
+    "python_abi 3.14.* *_cp314"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "timestamp": 1766067952000,
+  "size": 20274,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/opt/miniconda3/pkgs/cycler-0.12.1-py314hca03da5_0.conda",
+  "extracted_package_dir": "/opt/miniconda3/pkgs/cycler-0.12.1-py314hca03da5_0",
+  "files": [
+    "lib/python3.14/site-packages/cycler-0.12.1.dist-info/INSTALLER",
+    "lib/python3.14/site-packages/cycler-0.12.1.dist-info/METADATA",
+    "lib/python3.14/site-packages/cycler-0.12.1.dist-info/RECORD",
+    "lib/python3.14/site-packages/cycler-0.12.1.dist-info/REQUESTED",
+    "lib/python3.14/site-packages/cycler-0.12.1.dist-info/WHEEL",
+    "lib/python3.14/site-packages/cycler-0.12.1.dist-info/direct_url.json",
+    "lib/python3.14/site-packages/cycler-0.12.1.dist-info/licenses/LICENSE",
+    "lib/python3.14/site-packages/cycler-0.12.1.dist-info/top_level.txt",
+    "lib/python3.14/site-packages/cycler/__init__.py",
+    "lib/python3.14/site-packages/cycler/__pycache__/__init__.cpython-314.pyc",
+    "lib/python3.14/site-packages/cycler/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "lib/python3.14/site-packages/cycler-0.12.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/cycler-0.12.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "1777443d3b926b9051cf511ff6fabd52d9468374e442c455282b5c83c53a12c6",
+        "size_in_bytes": 3794,
+        "sha256_in_prefix": "1777443d3b926b9051cf511ff6fabd52d9468374e442c455282b5c83c53a12c6"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/cycler-0.12.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "07f0aa2d21f3fff75adeb52b860dd75bebde111caa5165f9edca3933ae30e794",
+        "size_in_bytes": 864,
+        "sha256_in_prefix": "07f0aa2d21f3fff75adeb52b860dd75bebde111caa5165f9edca3933ae30e794"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/cycler-0.12.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/cycler-0.12.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "ff309ddcdd65ebd02bc724dbf2bcc4a0ff53a5b61792a44548d383e4ebb19d3b",
+        "size_in_bytes": 91,
+        "sha256_in_prefix": "ff309ddcdd65ebd02bc724dbf2bcc4a0ff53a5b61792a44548d383e4ebb19d3b"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/cycler-0.12.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "ae9e13d6dc21e32716584c3f73026f84580c1875da2baba8baf67f08e1a4d2f9",
+        "size_in_bytes": 81,
+        "sha256_in_prefix": "ae9e13d6dc21e32716584c3f73026f84580c1875da2baba8baf67f08e1a4d2f9"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/cycler-0.12.1.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "f1218143d766da3fea66f13396b7f15df46a83303f29bf96ba6e98eb4d42f408",
+        "size_in_bytes": 1497,
+        "sha256_in_prefix": "f1218143d766da3fea66f13396b7f15df46a83303f29bf96ba6e98eb4d42f408"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/cycler-0.12.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "0fc05554374001e94b6f614e133ee50e973af802f6d7294a3eb321b46eb2cf21",
+        "size_in_bytes": 7,
+        "sha256_in_prefix": "0fc05554374001e94b6f614e133ee50e973af802f6d7294a3eb321b46eb2cf21"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/cycler/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d4975182fe59cf1a3e5b57afec1fcb5aabb2b163fa2d91fa08793f08eb486971",
+        "size_in_bytes": 16709,
+        "sha256_in_prefix": "d4975182fe59cf1a3e5b57afec1fcb5aabb2b163fa2d91fa08793f08eb486971"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/cycler/__pycache__/__init__.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "4bdf30cea84440386c7e5bbd381c42bfb7e73daa28e9f83055ab7386851d5919",
+        "size_in_bytes": 26327,
+        "sha256_in_prefix": "4bdf30cea84440386c7e5bbd381c42bfb7e73daa28e9f83055ab7386851d5919"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/cycler/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    ]
+  },
+  "link": {
+    "source": "/opt/miniconda3/pkgs/cycler-0.12.1-py314hca03da5_0",
+    "type": 1
+  }
+}

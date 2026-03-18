@@ -1,0 +1,62 @@
+{
+  "name": "openjpeg",
+  "version": "2.5.4",
+  "build": "h959fc53_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "subdir": "osx-arm64",
+  "fn": "openjpeg-2.5.4-h959fc53_1.conda",
+  "md5": "27c9bb3aa317319bb58e8ea96b8db340",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/openjpeg-2.5.4-h959fc53_1.conda",
+  "sha256": "7b9812a3e6d2d9b1fbdbef5cc02a6697fdc6e5a7a532fc405268726fda28f31c",
+  "depends": [
+    "__osx >=12.1",
+    "lcms2 >=2.16,<3.0a0",
+    "libopenjpeg 2.5.4 haa24f5a_1",
+    "libpng >=1.6.50,<1.7.0a0",
+    "libtiff >=4.7.0,<5.0a0",
+    "zlib >=1.2.13,<2.0a0"
+  ],
+  "constrains": [],
+  "license": "BSD-2-Clause",
+  "timestamp": 1761732763000,
+  "size": 106272,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/opt/miniconda3/pkgs/openjpeg-2.5.4-h959fc53_1.conda",
+  "extracted_package_dir": "/opt/miniconda3/pkgs/openjpeg-2.5.4-h959fc53_1",
+  "files": [
+    "bin/opj_compress",
+    "bin/opj_decompress",
+    "bin/opj_dump"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "bin/opj_compress",
+        "path_type": "hardlink",
+        "sha256": "f4f6b15b60ac407055210505a53c43112eacadc6f348213b53b7d7d3059e298a",
+        "size_in_bytes": 194896,
+        "sha256_in_prefix": "f4f6b15b60ac407055210505a53c43112eacadc6f348213b53b7d7d3059e298a"
+      },
+      {
+        "_path": "bin/opj_decompress",
+        "path_type": "hardlink",
+        "sha256": "a01bf9f1d72e0063fe579a8ed22a1e339e3803d96a636f27e6f69bb6a727b86b",
+        "size_in_bytes": 195504,
+        "sha256_in_prefix": "a01bf9f1d72e0063fe579a8ed22a1e339e3803d96a636f27e6f69bb6a727b86b"
+      },
+      {
+        "_path": "bin/opj_dump",
+        "path_type": "hardlink",
+        "sha256": "82a7d973d59b7887429a0411bdc1ac6e3e109ed8584074782d4addd5c78b7c53",
+        "size_in_bytes": 177552,
+        "sha256_in_prefix": "82a7d973d59b7887429a0411bdc1ac6e3e109ed8584074782d4addd5c78b7c53"
+      }
+    ]
+  },
+  "link": {
+    "source": "/opt/miniconda3/pkgs/openjpeg-2.5.4-h959fc53_1",
+    "type": 1
+  }
+}
